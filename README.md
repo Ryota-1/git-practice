@@ -1,2 +1,1 @@
-hoge
-hogehoge
+#初めてのgit投稿用
